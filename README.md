@@ -1,10 +1,10 @@
-# Hey there 👋 I'm Ansh Goyal
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Ansh Goyal
 
 <div align="center">
 
 ### 🚀 Full Stack Developer • AI Explorer • Hackathon Builder
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Projects;MERN+Stack+Developer;FastAPI+%2B+Next.js+Explorer;Hackathon+Enthusiast+%F0%9F%8F%86;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Projects;Next.js+%2B+FastAPI+Developer;MERN+Stack+Explorer;Hackathon+Enthusiast+🏆;Always+Learning+Something+New" />
 
 </div>
 
@@ -12,24 +12,28 @@
 
 # 🟢 CURRENT MISSION
 
-yaml Status      : Building & Shipping 🚀 Mode        : Learn → Build → Improve → Repeat Stack       : MERN • Next.js • FastAPI • PostgreSQL • Python Focus       : Full Stack + AI/ML + Scalable Systems Current XP  : Civic Tech • Computer Vision • Hackathons Weakness    : "Just one more feature..." 😭 Next Goal   : Building impactful products & cracking top tech ⚡ 
+<img align="right" alt="coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+yaml Status      : Online 24/7 ⚡ Mode        : Learn → Build → Ship 🚀 Focus       : Full Stack + AI/ML + Problem Solving Tech Stack  : MERN • Next.js • FastAPI • PostgreSQL • Docker Current XP  : Civic Tech • Computer Vision • AI Systems Weakness    : "Just one more feature..." 😭 Next Goal   : Building impactful tech products 
+
+💡 Turning ideas into real-world software through scalable systems, AI-powered applications, and modern full-stack development.
 
 ---
 
 # 🧠 About Me
 
-💻 Full Stack Developer passionate about building scalable and real-world applications
+💻 Passionate about building modern web applications and intelligent systems
 
-🐍 Exploring AI/ML, FastAPI, intelligent systems, and backend architecture
+🐍 Exploring AI/ML, backend architecture, FastAPI, and scalable software engineering
 
 🏆 Former Technical Head — ACM Student Chapter
 
-⚡ Led hackathons, coding events, and technical initiatives on campus
+⚡ Led hackathons, coding events, and technical initiatives while mentoring developer teams
 
-🔬 Building projects in:
+🔬 Building projects around:
 - AI-powered civic tech
-- Computer vision
-- Full-stack web platforms
+- Computer Vision
+- Full Stack Platforms
 - Real-world automation systems
 
 🤝 Open to collaborations, hackathons, and innovative ideas
@@ -48,23 +52,15 @@ yaml Status      : Building & Shipping 🚀 Mode        : Learn → Build → Im
 
 # 🚀 Featured Projects
 
-## 🏙️ CivicSync
-AI-Driven Urban Grievance Prioritization & Accountability Platform
+<div align="center">
 
-- AI-powered complaint prioritization
-- Next.js + FastAPI architecture
-- PostgreSQL + Docker deployment
-- Analytics dashboards & admin workflows
+| Project | Description |
+|---------|-------------|
+| 🏙️ CivicSync | AI-Driven Urban Grievance Prioritization Platform |
+| 🔍 RescueNet | AI-Based Missing Persons Identification System |
+| 🌍 CaptivatingJourneys | Multi-Destination Travel Website |
 
----
-
-## 🔍 RescueNet
-AI-Based Missing Persons Identification Platform
-
-- OpenCV + TensorFlow integration
-- Real-time face matching pipeline
-- Community reporting system
-- React + Node.js full-stack platform
+</div>
 
 ---
 
@@ -72,27 +68,21 @@ AI-Based Missing Persons Identification Platform
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anshgoyal05&show_icons=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anshgoyal05&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=anshgoyal05&theme=tokyonight" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=anshgoyal05&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+# 🧩 Developer Mindset
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
-🔥 Watch me feed this snake every single day 🐍
+cpp while(alive) {     learn();     build();     debug();     improve();     repeat(); } 
 
 ---
 
-# 🌐 Let's Connect
+# 🌐 Connect With Me
 
 <div align="center">
 
@@ -104,6 +94,10 @@ AI-Based Missing Persons Identification Platform
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
+<a href="mailto:goyalansh.in@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
 </div>
 
 ---
@@ -111,5 +105,7 @@ AI-Based Missing Persons Identification Platform
 <div align="center">
 
 ## ⚡ Keep Building • Keep Grinding • Keep Growing ⚡
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6C63FF&height=120&section=footer"/>
 
 </div
