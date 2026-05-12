@@ -1,10 +1,10 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Ansh Goyal
+# Hey there 👋 I'm Ansh Goyal
 
 <div align="center">
 
-### 🚀 Full Stack Developer • AI Explorer • Hackathon Builder
+### 🚀 Full Stack Developer • AI Builder • Problem Solver
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Projects;Next.js+%2B+FastAPI+Developer;MERN+Stack+Explorer;Hackathon+Enthusiast+🏆;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Applications;Full+Stack+Developer+⚡;Next.js+%2B+FastAPI+Explorer;Hackathon+Builder+🏆;Turning+Ideas+Into+Products+🚀" />
 
 </div>
 
@@ -12,11 +12,15 @@
 
 # 🟢 CURRENT MISSION
 
-<img align="right" alt="coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="260" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
-yaml Status      : Online 24/7 ⚡ Mode        : Learn → Build → Ship 🚀 Focus       : Full Stack + AI/ML + Problem Solving Tech Stack  : MERN • Next.js • FastAPI • PostgreSQL • Docker Current XP  : Civic Tech • Computer Vision • AI Systems Weakness    : "Just one more feature..." 😭 Next Goal   : Building impactful tech products 
+yaml Status       : Building cool stuff every day ⚡ Mode         : Learn → Experiment → Build → Improve 🚀 Currently On : Full Stack Development + AI Systems Tech Stack   : MERN • Next.js • FastAPI • PostgreSQL • Docker Exploring    : AI/ML • Computer Vision • Backend Architecture Working On   : Real-world products with meaningful impact Weakness     : "One more feature before sleep..." 😭 Next Goal    : Scaling projects & becoming a better engineer 
 
-💡 Turning ideas into real-world software through scalable systems, AI-powered applications, and modern full-stack development.
+💡 Passionate about creating scalable applications, experimenting with intelligent systems, and turning ambitious ideas into practical software.
+
+🔥 I enjoy building products that combine clean UI, strong backend architecture, and real-world problem solving.
+
+⚡ Always learning, always building, always improving.
 
 ---
 
@@ -119,15 +123,15 @@ yaml Status      : Online 24/7 ⚡ Mode        : Learn → Build → Ship 🚀 F
 ---
 
 # 🧩 Developer Mindset
-
-python
-  while True:    
-    learn()     
-    build()     
-    debug()     
-    improve()     
-    repeat()  
-  # powered by curiosity ⚡ 
+Python
+```python
+while True:
+    learn()
+    build()
+    debug()
+    improve()
+    repeat()
+```
 
 ---
 
