@@ -42,11 +42,55 @@ yaml Status      : Online 24/7 ⚡ Mode        : Learn → Build → Ship 🚀 F
 
 # ⚔️ Tech Arsenal
 
-<div align="center">
+## 💻 Languages
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,python,fastapi,cpp,postgres,docker,git,github,linux,vscode,tailwind" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,html,css" />
 
-</div>
+</p>
+
+---
+
+## ⚡ Frameworks & Libraries
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,tensorflow" />
+
+</p>
+
+- 🔍 OpenCV
+
+---
+
+## 🛠️ Tools & Platforms
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,npm" />
+
+</p>
+
+---
+
+## 🗄️ Databases
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres" />
+
+</p>
+
+---
+
+## 🧠 Concepts
+
+```yaml id="j8w4ww"
+• Object-Oriented Programming (OOP)
+• Database Management Systems (DBMS)
+• Data Analytics
+• Computer Networks
+• Cyber Security
+• Machine Learning
+• REST APIs
+```
 
 ---
 
