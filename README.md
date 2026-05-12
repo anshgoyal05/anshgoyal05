@@ -120,7 +120,14 @@ yaml Status      : Online 24/7 ⚡ Mode        : Learn → Build → Ship 🚀 F
 
 # 🧩 Developer Mindset
 
-python while True:     learn()     build()     debug()     improve()     repeat()  # powered by curiosity ⚡ 
+python
+  while True:    
+    learn()     
+    build()     
+    debug()     
+    improve()     
+    repeat()  
+  # powered by curiosity ⚡ 
 
 ---
 
